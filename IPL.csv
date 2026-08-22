@@ -1,0 +1,11 @@
+id,city,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets
+1,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,35,0
+2,Pune,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,7
+3,Rajkot,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,10
+4,Indore,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,6
+5,Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,15,0
+6,Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,9
+7,Mumbai,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,4
+8,Indore,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,8
+9,Pune,Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,Delhi Daredevils,97,0
+10,Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,4
